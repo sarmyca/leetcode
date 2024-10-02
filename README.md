@@ -19,7 +19,7 @@ Each folder will contain:
 
 ## 🛠️ Tech Stack
 
-- **Languages used:** [TODO]
+- **Languages used:** C++, Python
 - **Tools:** Leetcode platform
 
 ## 💡 Contributions
