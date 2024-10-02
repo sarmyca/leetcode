@@ -11,27 +11,27 @@ class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         // Creating a copy of the original array and sorting it
-        vector<int> sorted_arr = arr;
-        sort(sorted_arr.begin(), sorted_arr.end());
+        vector<int> sorted = arr;
+        sort(sorted.begin(), sorted.end());
 
         // Creating a map to store the rank of each element
-        map<int, int> rank;
+        map<int, int> ranks;
         int r = 1;
 
         // Assigning ranks to the elements in the sorted array
-        for (int i = 0; i < sorted_arr.size(); i++) {
-            if (rank.find(sorted_arr[i]) == rank.end()) {
-                rank[sorted_arr[i]] = r;
+        for (int i = 0; i < sorted.size(); i++) {
+            if (ranks.find(sorted[i]) == ranks.end()) {
+                ranks[sorted[i]] = r;
                 r++;
             }
         }
 
         // Creating the result by replacing each element with its allocated rank
-        vector<int> result;
+        vector<int> res;
         for (int i = 0; i < arr.size(); i++) {
-            result.push_back(rank[arr[i]]);
+            res.push_back(ranks[arr[i]]);
         }
 
-        return result;
+        return res;
     }
 };
