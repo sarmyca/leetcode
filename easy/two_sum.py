@@ -10,7 +10,6 @@ class Solution(object):
         :rtype: List[int]
         """
         dict = {}
-        
         for i in range(len(nums)):
             # Check if the complement (target - current number) exists in the dictionary
             if target - nums[i] in dict:
