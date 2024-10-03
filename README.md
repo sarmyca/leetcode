@@ -1,8 +1,8 @@
 # Leetcode Solutions
 
-Welcome to my Leetcode repository! 🎯
+Welcome to my **Leetcode repository!** 🎯
 
-Here, I'll be posting my solutions to various Leetcode problems as I work through them. Each solution will be well-commented and organized based on problem categories or difficulty levels.
+Here, I'll be posting my solutions to various Leetcode problems as I work through them. Each solution will be well-commented and organized based on difficulty levels.
 
 ## 📂 Structure
 
@@ -14,7 +14,7 @@ The repository is organized as follows:
 
 Each folder will contain:
 - The problem name and number (if not copyrighted)
-- My solution in the programming language I used (Python, Java, etc.)
+- My solution in the programming language I used (Python, Java, C++, etc.)
 - Additional comments or explanations where necessary
 
 ## 🛠️ Tech Stack
@@ -24,7 +24,7 @@ Each folder will contain:
 
 ## 💡 Contributions
 
-This repo is mainly for my personal use, but if you notice any mistakes or have suggestions for improvement, feel free to open an issue or submit a pull request. Constructive feedback is always welcome!
+This repo is mainly for my personal use, but if you notice any mistakes or have suggestions for improvement, feel free to open an issue or submit a pull request. Constructive feedback is always welcome! :)
 
 ## 🔗 Resources
 
