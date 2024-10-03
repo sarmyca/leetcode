@@ -3,8 +3,8 @@
 # Runtime complexity: O(n)
 # Must use constant extra space
 
-# I submitted two solutions for this problem. The first one uses a set to keep track of repeating numbers. The second one uses XOR operation.
-# Both solutions have the same runtime complexity, but the second one is far more efficient in terms of memory usage.
+# I submitted two solutions for this problem. The first one uses a set to keep track of repeating numbers. The second one uses XOR operation
+# Both solutions have the same runtime complexity, but the second one is far more efficient in terms of memory usage
 # The first solution was my original submission, but afer reading other solutions i learned about the XOR operation and decided to implement it
 
 
