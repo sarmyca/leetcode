@@ -13,7 +13,7 @@ The repository is organized as follows:
 - **/hard** – Solutions to Leetcode's Hard problems
 
 Each folder will contain:
-- The problem statement (if not copyrighted)
+- The problem name and number (if not copyrighted)
 - My solution in the programming language I used (Python, Java, etc.)
 - Additional comments or explanations where necessary
 
