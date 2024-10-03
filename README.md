@@ -14,12 +14,12 @@ The repository is organized as follows:
 
 Each folder will contain:
 - The problem name and number (if not copyrighted)
-- My solution in the programming language I used (Python, Java, C++, etc.)
+- My solution in the programming language I used for that task
 - Additional comments or explanations where necessary
 
 ## 🛠️ Tech Stack
 
-- **Languages used:** C++, Python
+- **Languages used:** C++, Python, Java
 - **Tools:** LeetCode platform
 
 ## 💡 Contributions
