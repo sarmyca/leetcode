@@ -35,7 +35,6 @@ public:
                 continue;
             }
             
-
             // Current node has been visited -> adding it to the result vector 
             // Current node has not been visited -> push() the right child, the current node and the left child
             if (visited) {
