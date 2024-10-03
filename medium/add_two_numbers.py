@@ -7,6 +7,8 @@
 #         self.val = val
 #         self.next = next
 
+ListNode = type('ListNode', (object,), {'__init__': lambda self, val=0, next=None: (setattr(self, 'val', val), setattr(self, 'next', next))})
+
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
         """
