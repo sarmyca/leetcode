@@ -1,16 +1,16 @@
-# Leetcode Solutions
+# LeetCode Solutions
 
-Welcome to my **Leetcode repository!** 🎯
+Welcome to my **LeetCode repository!** 🎯
 
-Here, I'll be posting my solutions to various Leetcode problems as I work through them. Each solution will be well-commented and organized based on difficulty levels.
+Here, I'll be posting my solutions to various LeetCode problems as I work through them. Each solution will be well-commented and organized based on difficulty levels.
 
 ## 📂 Structure
 
 The repository is organized as follows:
 
-- **/easy** – Solutions to Leetcode's Easy problems
-- **/medium** – Solutions to Leetcode's Medium problems
-- **/hard** – Solutions to Leetcode's Hard problems
+- **/easy** – Solutions to LeetCode's Easy problems
+- **/medium** – Solutions to LeetCode's Medium problems
+- **/hard** – Solutions to LeetCode's Hard problems
 
 Each folder will contain:
 - The problem name and number (if not copyrighted)
@@ -20,7 +20,7 @@ Each folder will contain:
 ## 🛠️ Tech Stack
 
 - **Languages used:** C++, Python
-- **Tools:** Leetcode platform
+- **Tools:** LeetCode platform
 
 ## 💡 Contributions
 
@@ -28,4 +28,4 @@ This repo is mainly for my personal use, but if you notice any mistakes or have 
 
 ## 🔗 Resources
 
-- [Leetcode](https://leetcode.com/) – Practice coding skills and prepare for technical interviews
+- [LeetCode](https://leetcode.com/) – Practice coding skills and prepare for technical interviews
