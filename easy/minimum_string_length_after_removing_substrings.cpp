@@ -2,6 +2,7 @@
 // Problem link: https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -14,7 +15,7 @@ public:
         while ((position = s.find("AB")) != string::npos || (position = s.find("CD")) != string::npos) {
             s.erase(position, 2);
         }
-        
+
         return s.length();
     }
 };
